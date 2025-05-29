@@ -1,4 +1,4 @@
-# Laravue Docs
+# Laravue Docs hi
 
 Source code for the [Laravue documentation](https://doc.laravue.dev).
 Demo site: https://laravue.dev.
